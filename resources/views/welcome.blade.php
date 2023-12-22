@@ -4,8 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="icon" href="{{ asset('img/artilogo.png') }}">
-        <title>Mandomai</title>
+        <link rel="icon" href="{{ asset('img/Logo.jpeg') }}">
+        <title>Donomerto</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Bootstrap Icons-->
@@ -22,7 +22,7 @@
     <body id="page-top">
         <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
             <div class="container px-4 px-lg-5">
-                <a class="navbar-brand" href="/"> <img src="{{ asset('img/artilogo.png') }}" alt="Logo Kabupaten Kapuas" width="40px" height="auto"> Mandomai</a>
+                <a class="navbar-brand" href="/"> <img src="{{ asset('img/Logo.jpeg') }}" alt="Logo Kabupaten Kapuas" width="40px" height="auto"> Donomerto</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto my-2 my-lg-0">
@@ -38,12 +38,11 @@
             <div class="container px-4 px-lg-5 h-100">
                 <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
                     <div class="col-lg-8 align-self-end">
-                        <h1 class="text-white font-weight-bold">Kecamatan Mandomai</h1>
+                        <h1 class="text-white font-weight-bold">Kecamatan Donomerto</h1>
                         <hr class="divider" />
                     </div>
                     <div class="col-lg-8 align-self-baseline">
-                        <p class="text-white-75 mb-5">Mandomai adalah nama kelurahan di wilayah Kecamatan Kapuas Barat, Kabupaten Kapuas, Provinsi Kalimantan Tengah, Indonesia.</p>
-                        <a class="btn btn-primary btn-xl" target="_blank" href="https://id.wikipedia.org/wiki/Mandomai,_Kapuas_Barat,_Kapuas">Find Out More</a>
+                        <p class="text-white-75 mb-5">Donomerto adalah salah satu nama padukuhan di Kalurahan Donomulyo, Wilayah Kapanewon Nanggulan, Kabupaten Kulon Progo, Provinsi Daerah Istimewa Yogyakarta.</p>
                     </div>
                 </div>
             </div>
@@ -58,11 +57,11 @@
         <div class="row">
             <!--Grid column for Mandomai (left)-->
             <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
-                <h5 class="text-uppercase">MANDOMAI</h5>
+                <h5 class="text-uppercase">Donomerto</h5>
                 <p>
-                    Mandomai adalah nama kelurahan di wilayah Kecamatan Kapuas Barat, 
-                    Kabupaten Kapuas, 
-                    Provinsi Kalimantan Tengah, Indonesia.
+                    Donomerto adalah salah satu nama padukuhan di Kalurahan Donomulyo, 
+                    Wilayah Kapanewon Nanggulan, Kabupaten Kulon Progo, 
+                    Provinsi Daerah Istimewa Yogyakarta, Indonesia.
                 </p>
             </div>
     
@@ -72,10 +71,10 @@
                 <br>
                 <ul class="list-unstyled mb-0">
                     <li>
-                        <p>Lurah Mandomai : +62 812-1563-6364</p>
+                        <p>Lurah Donomerto : +62 8</p>
                     </li>
                     <li>
-                        <p>Email : mandomaikelurahan@gmail.com</p>
+                        <p>Email : x@gmail.com</p>
                     </li>
                 </ul>
             </div>
@@ -103,7 +102,7 @@
     <!-- Grid container -->
 
     <!-- Copyright -->
-    <div class="text-center p-3"style="background-color: rgba(0, 0, 0, 0.2)">© 2023 Copyright: Developer Mandomai
+    <div class="text-center p-3"style="background-color: rgba(0, 0, 0, 0.2)">© 2023 Copyright: Developer Donomerto
     </div>
     <!-- Copyright -->
   </footer>

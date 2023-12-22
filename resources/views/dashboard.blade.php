@@ -3,8 +3,8 @@
     <head> 
         <meta charset="utf-8"> 
         <meta name="viewport" content="width=device-width, initial-scale=1"> 
-        <link rel="icon" href="{{ asset('img/artilogo.png') }}">
-        <title>Website Admin Mandomai</title> 
+        <link rel="icon" href="{{ asset('img/Logo.jpeg') }}">
+        <title>Website Admin Donomerto</title> 
         <!-- Google Font: Source Sans Pro --> 
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback"> 
         
@@ -62,8 +62,8 @@
             <aside class="main-sidebar sidebar-dark-primary elevation-4"> 
                 <!-- Brand Logo --> 
                 <a href="/home" class="brand-link">
-                    <img src=" {{ asset('img/artilogo.png') }}" alt="Website Mandomai Logo" class="brand-image img-circle elevation-3" style="opacity: .8"> 
-                    <span class="brand-text font-weight-light">Website Mandomai</span> 
+                    <img src=" {{ asset('img/Logo.jpeg') }}" alt="Website Donomerto Logo" class="brand-image img-circle elevation-3" style="opacity: .8"> 
+                    <span class="brand-text font-weight-light">Website Donomerto</span> 
                 </a>
                 <!-- Sidebar --> 
                 <div class="sidebar"> 
@@ -108,7 +108,7 @@
             <!-- Main Footer -->
             <footer class="main-footer"> 
                 <!-- To the right --> 
-                <div class="float-right d-none d-sm-inline"> DEVELOPER MANDOMAI </div> 
+                <div class="float-right d-none d-sm-inline"> DEVELOPER DONOMERTO </div> 
                 <!-- Default to the left --> 
                 <strong>Copyright &copy; {{ date('Y') }} 
                     {{-- <a href="#">AdminLTE.io</a>.  --}}
