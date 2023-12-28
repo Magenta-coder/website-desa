@@ -141,7 +141,7 @@
         <!-- Instagram -->
         <a
         class="btn btn-outline-light btn-floating m-1"
-        href="https://instagram.com/info.mandomai?igshid=MzRlODBiNWFlZA=="
+        href="https://www.instagram.com/new_orpendo/"
         role="button"
         target="_blank"
         ><i class="bi bi-instagram"></i
