@@ -87,7 +87,7 @@
                 <br>
                 <ul class="list-unstyled mb-0">
                     <li>
-                        <p>Lurah Donomerto : +62 8</p>
+                        <p>Dukuh Donomerto : +62 857-4344-9651</p>
                     </li>
                     <li>
                         <p>Email : x@gmail.com</p>

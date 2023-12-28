@@ -57,6 +57,11 @@
                     @endforelse
                 </div>
             </div>
+            <div class="d-flex">
+                <div class="mx-auto">
+                    {{$jabatan->links("pagination::bootstrap-4")}}
+                </div>
+            </div>
         </section>
 
         <section class="page-section bg-primary" id="services">
@@ -68,7 +73,7 @@
                         <div class="mt-5">
                             <div class="mb-2"><i class="bi bi-award-fill fs-1 text-white"></i></div>
                             <h3 class="h4 mb-2 text-white">VISI</h3>
-                            <p class="text-white mb-0">Terwujudnya Kelurahan Mandomai yang aman, tertib, mandiri dan sejahtera.</p>
+                            <p class="text-white mb-0">Terwujudnya Padukuhan Donomerto yang aman, tertib, mandiri dan sejahtera.</p>
                         </div>
                     </div>
                     <div class="col-lg-7 col-md-10 text-center">
@@ -117,7 +122,7 @@
                 <br>
                 <ul class="list-unstyled mb-0">
                     <li>
-                        <p>Lurah Donomerto : +62 8</p>
+                        <p>Dukuh Donomerto : +62 857-4344-9651</p>
                     </li>
                     <li>
                         <p>Email : x@gmail.com</p>

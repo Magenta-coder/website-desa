@@ -72,20 +72,20 @@
                         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false"> 
                             <li class="nav-item"> 
                                 <a href="{{ url('berita') }}" class="nav-link"> 
-                                    <i class="nav-icon far fa-circle"></i> 
+                                    <i class="nav-icon fa-solid fa-circle-info"></i> 
                                         <p> Informasi</p> 
                                 </a> 
                             </li>
                             <li class="nav-item"> 
                                 <a href="{{ url('jabatan') }}" class="nav-link"> 
-                                    <i class="nav-icon far fa-circle"></i> 
+                                    <i class="nav-icon fa-solid fa-user"></i>
                                         <p> Profile</p> 
                                 </a> 
                             </li> 
                             <li class="nav-item"> 
                                 <a href="{{ route('logout') }}" class="nav-link"  onclick="event.preventDefault();
                                 document.getElementById('logout-form').submit();"> 
-                                    <i class="nav-icon far fa-circle"></i> 
+                                    <i class="nav-icon fa-solid fa-right-from-bracket"></i>
                                         <p> Logout</p> 
                                 </a>
                                 <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
